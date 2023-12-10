@@ -1,2 +1,3 @@
 # Jocer
-sms-bomber-Joker
+sms-bomber-Joker 
+coder: reza Or david Joker 
